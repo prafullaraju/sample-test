@@ -1,3 +1,3 @@
 # sample-test
 
-Conflict here `edited`
+Conflict goes here `edited`
